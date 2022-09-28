@@ -1,0 +1,58 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "country": "India",
+      "city": "hyd",
+      "population": "44884644"
+    },
+    {
+      "id": 2,
+      "country": "SriLanka",
+      "city": "lankka",
+      "population": "448484"
+    },
+    {
+      "id": 3,
+      "country": "Spain",
+      "city": "hjhj",
+      "population": "65454"
+    },
+    {
+      "id": 4,
+      "country": "Albania",
+      "city": "pirana",
+      "population": "454841548"
+    },
+    {
+      "id": 5,
+      "country": "Algeria",
+      "city": "Alger",
+      "population": 395823
+    },
+    {
+      "id": 6,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "population": 705698
+    },
+    {
+      "id": 7,
+      "country": "Poland",
+      "city": "Warszawa",
+      "population": 934852
+    },
+    {
+      "id": 8,
+      "country": "Russian Federation",
+      "city": "Moscow",
+      "population": 569874
+    },
+    {
+      "id": 9,
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "population": 203843
+    }
+  ]
+}
