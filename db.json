@@ -3,10 +3,9 @@
     {
       "id": 1,
       "name": "Shaik",
-      "age": 23,
-      "state": "Andhra",
-      "year":"2022"
+      "age": 23
       
+
     }
   ]
 }
